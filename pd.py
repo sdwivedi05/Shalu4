@@ -1,4 +1,4 @@
 print("Hello Pankaj")
 print("XXX")
 
-prtin("Shaluuuuuu")
+print("Shaluuuuuu")
